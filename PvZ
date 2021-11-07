@@ -1,0 +1,27 @@
+<html>
+<head>
+<style>
+body {
+  background: rgb(238, 148, 14)
+}
+h1 {
+  color: green;
+  text-align: center;
+}
+
+p {
+  font-family: strong;
+  font-size: 30px;
+}
+</style>
+</head>
+<body>
+
+<h1>Plants vs. Zombies</h1>
+<p> Plants vs. Zombies (с англ. — «Растения против зомби») — компьютерная игра в жанре Tower Defense, разработанная и изданная американской студией PopCap Games для Windows и OS X 5 мая 2009 года. Впоследствии она была портирована на приставки, портативные игровые системы и мобильные устройства. Прежде чем утвердиться как самостоятельная игра, Plants vs. Zombies первоначально разрабатывалась геймдизайнером Джорджем Фэном как продолжение игры Insaniquarium</p>
+<div>
+ <img src="https://fan-pvz.com/uploads/posts/2016-05/1464726676_pvz-1.jpg" width="640" height="400"/>
+<img src="https://steamuserimages-a.akamaihd.net/ugc/29604772522300373/8865D8D577C17DA29ABF4B05B7EDBAB8F8EA2DD1/" width="640" height="400"/>
+</div>
+</body>
+</html>
