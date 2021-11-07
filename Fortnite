@@ -1,0 +1,27 @@
+<html>
+<head>
+<style>
+body {
+  background: rgb(255, 81, 0)
+}
+h1 {
+  color: green;
+  text-align: center;
+}
+
+p {
+  font-family: strong;
+  font-size: 30px;
+}
+</style>
+</head>
+<body>
+
+<h1>Fortnite</h1>
+<p>Fortnite — компьютерная онлайн-игра, разработанная американской компанией Epic Games и выпущенная в ранний доступ в 2017 году. Fortnite предлагает игрокам на выбор три раздельных режима: PVE кооперативный симулятор выживания с открытым миром, в котором игрокам предлагается сообща отбиваться от монстров, похожих на зомби, с помощью оружия и различных построек, Battle Royale — соревновательный режим в жанре королевской битвы, в котором 100 игроков должны сражаться друг с другом, пока в живых не останется только один и добавленный в 2018 году режим, Creative, режим-«песочница», в котором игроки могут самостоятельно создавать различные сооружения, наподобие Minecraft</p>
+<div>
+ <img src="https://static.gamehag.com/upload/31ouuGf7FmbBjJlH3mjenp8qZX7nS8.jpg" width="640" height="400"/>
+<img src="https://www.wizcase.com/wp-content/uploads/2020/06/fortnite-logo.jpg" width="640" height="400"/>
+</div>
+</body>
+</html>
