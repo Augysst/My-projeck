@@ -1,0 +1,27 @@
+<html>
+<head>
+<style>
+body {
+  background: rgb(255, 81, 0)
+}
+h1 {
+  color: green;
+  text-align: center;
+}
+
+p {
+  font-family: strong;
+  font-size: 30px;
+}
+</style>
+</head>
+<body>
+
+<h1>Counter-Strike</h1>
+<p>Counter-Strike: Global Offensive (CS:GO; с англ. — «Контрудар: глобальное наступление») — многопользовательская компьютерная игра, разработанная компаниями Valve и Hidden Path Entertainment. Выпуск игры для персональных компьютеров на операционных системах Windows и macOS, также игровых приставках Xbox 360 и PlayStation 3 состоялся 21 августа 2012 года. Версия игры для Linux была выпущена в 2014 году, а в 2016 году игра, в рамках программы обратной совместимости, стала доступна на Xbox One. В сентябре 2018 года была выпущена бесплатная версия с возможностью игры с реальными игроками и с ботами. Позже, в декабре того же года игра стала полностью бесплатной.</p>
+<div>
+ <img src="https://sm.ign.com/t/ign_ru/screenshot/default/2csgo_javd.1280.jpg" width="540" height="400"/>
+<img src="https://www.meme-arsenal.com/memes/d86fe462696d9b51e7fdd88ffbfc2174.jpg" width="540" height="400"/>
+</div>
+</body>
+</html>
