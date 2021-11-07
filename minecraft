@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background: rgb(234, 238, 4)
+}
+h1 {
+  color: green;
+  text-align: center;
+}
+
+p {
+  font-family: strong;
+  font-size: 30px;
+}
+</style>
+</head>
+<body>
+
+<h1>Minecraft</h1>
+<p>Minecraft — компьютерная инди-игра в жанре песочницы, созданная шведским программистом Маркусом Перссоном и выпущенная его компанией Mojang AB. Перссон опубликовал начальную версию игры в 2009 году; в конце 2011 года была выпущена стабильная версия для ПК Microsoft Windows, распространявшаяся через официальный сайт. В последующие годы Minecraft была портирована на Linux и macOS для персональных компьютеров; на Android, iOS и Windows Phone для мобильных устройств; на игровые приставки PlayStation 4, Vita, VR, Xbox One, Nintendo 3DS, Switch и Wii U. В 2014 году корпорация Microsoft приобрела права на Minecraft вместе с компанией Mojang AB за 2,5 миллиарда $. Студия 4J портировала игру на игровые приставки, а Xbox Game Studios разработала мультиплатформенную версию Minecraft и специальное издание игры для образовательных учреждений.</p>
+<div>
+ <img src="https://img.championat.com/s/735x490/news/big/j/j/neizvestnaya-oshibka-v-minecraft-ubivaet-personazhej-igroki-zhaluyutsya-avtory-molchat_1628078111710300796.jpg" width="640" height="400"/>
+<img src="https://play-lh.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw" width="550" height="400"/>
+
+</body>
+</html>
